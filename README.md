@@ -3,7 +3,7 @@
 ## 📄 Descrição
 ---
 
-## 🧩 Componente 1 - Responsividade do Banner com CSS FlexBox
+## 🧩 Componente 1 - Responsividade do Banner com CSS Display Grid
 
 Neste componente, foi desenvolvida a **responsividade do banner principal** do site da Pokédex, utilizando **CSS FlexBox** para criar um layout dinâmico, adaptável e centrado, sem a necessidade de múltiplas media queries.
 
