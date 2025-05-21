@@ -11,8 +11,8 @@ Neste componente, foi desenvolvida a **responsividade do banner principal** do s
 O objetivo foi tornar o banner da Pokédex responsivo, garantindo que ele se ajustasse automaticamente a diferentes larguras de tela e comportasse de **1 até 5 cards**, dependendo do espaço disponível.
 
 ### 🛠️ Tecnologias e conceitos aplicados
-- CSS FlexBox (`display: flex`, `flex-wrap: wrap;`)
-- Gap para espaçamento entre elementos
+- CSS Grid (`display: grid`, `grid-template-columns`, `auto-fill`)
+- Grid Gap para espaçamento entre elementos
 - Layout responsivo sem necessidade de media queries
 - Design centrado com `justify-content: center`
 - Abordagem mobile-first e de fácil manutenção
